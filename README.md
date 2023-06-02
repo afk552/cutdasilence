@@ -3,4 +3,4 @@
 
 ### [Видео с демонстрацией](https://youtu.be/1NiUATyXmCE "Видео с демонстрацией")
 
-[![Screenshot](https://media.discordapp.net/attachments/647892846250033172/1114119230112137226/V8gxme2.jpg "Screenshot")](https://media.discordapp.net/attachments/647892846250033172/1114119230112137226/V8gxme2.jpg "Screenshot")
+[![Screenshot](https://media.discordapp.net/attachments/647892846250033172/1114119230112137226/V8gxme2.jpg "Screenshot")](https://youtu.be/1NiUATyXmCE "Screenshot")
